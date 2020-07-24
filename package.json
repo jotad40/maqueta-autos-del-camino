@@ -1,0 +1,20 @@
+{
+  "name": "maqueta-autos-del-camino",
+  "version": "1.0.0",
+  "description": "Maqueta para Doctus con Node.js",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Jotad40@bitbucket.org/Jotad40/maqueta-autos-del-camino.git"
+  },
+  "author": "Juan David Gonzalez Martinez",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Jotad40/maqueta-autos-del-camino#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
