@@ -1,5 +1,13 @@
 # README #
 
+Prueba técnica Diseño y Maqueta
+
+La empresa Autos del Camino requiere realizar el diseño de logo y de su sitio web, con el propósito de adaptarse 
+a las nuevas tendencias de diseño web, con base a esto se han elaborado unos wireframes en los que se plantea la
+estructura del sitio y los elementos con los que debe contar.
+
+
+
 This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
@@ -11,6 +19,11 @@ This README would normally document whatever steps are necessary to get your app
 ### How do I get set up? ###
 
 * Summary of set up
+Descargar repositorio
+Instalar NPM
+Instalar lite-server
+Agregar dependencias
+
 * Configuration
 * Dependencies
 * Database configuration
